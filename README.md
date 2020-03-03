@@ -1,4 +1,4 @@
 # PyCraft
-Lightweight Minecraft server querrier interface made using Python.
+Lightweight Minecraft server querrier GUI made using Python.
 
 Requires the mcstatus library : https://github.com/Dinnerbone/mcstatus
