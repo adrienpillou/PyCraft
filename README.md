@@ -1,5 +1,6 @@
 # PyCraft
-<img src="https://github.com/adrienpillou/PyCraft/blob/master/assets/terminal_bloc.ico"></img>
+![GitHub Logo](/assets/terminal_bloc.ico)
+Format: ![Alt Text](url)
 Lightweight Minecraft server querrier GUI made using Python.
 
 Requires the mcstatus library : https://github.com/Dinnerbone/mcstatus
