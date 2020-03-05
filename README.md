@@ -6,6 +6,8 @@ Lightweight Minecraft server querrier GUI made using Python.
   <li>Slots indicator</li>
   <li>Latency indicator </li>
  </ul>
- 
+ <p align="center">
+  <img  src="snap_01.png">
+</p>
 Requires the <b>mcstatus</b> library : https://github.com/Dinnerbone/mcstatus
 </br>Don't forget to enable the querry option in your server's 'server.property' file.
