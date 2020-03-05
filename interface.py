@@ -65,6 +65,6 @@ playerListBox.grid(row =8, column = 0)
 frame.place(relx = .5, rely = .5, anchor = CENTER)
 
 server = EstablishConnection(ipAddressField.get(), portAddressField.get())
-#server = serverwrapper.Server("93.25.248.66", "25565")
+
 UpdateInterface()
 root.mainloop()
