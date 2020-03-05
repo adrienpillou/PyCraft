@@ -1,6 +1,6 @@
 <h1>PyCraft</h1>
 Lightweight Minecraft server querrier GUI made using Python.
-
+</br>
 <ul>
   <li>list of connected players on the server</li>
   <li>Slots indicator</li>
